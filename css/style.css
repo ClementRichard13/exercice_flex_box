@@ -25,6 +25,7 @@ h2 {
 /* EXERCICE 2 */
 .exercice2 > ul {
   display: flex;
+  flex-direction: row-reverse;
 }
 
 /* EXERCICE 3 */
