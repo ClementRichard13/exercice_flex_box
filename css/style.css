@@ -40,7 +40,23 @@ h2 {
 
 /* EXERCICE 4 */
 
+.exercice4 ul {
+  display: flex;
+}
+.exercice4 li {
+  flex: 1;
+}
+
+.exercice4 li:nth-child(2) {
+  flex: 3;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+
 /* EXERCICE 5 */
+.exercice5 {
+  display: flex;
+}
 
 /* EXERCICE 6 */
 
