@@ -34,6 +34,10 @@ h2 {
   display: flex;
 }
 
+.exercice3 li {
+  flex: 1;
+}
+
 /* EXERCICE 4 */
 
 /* EXERCICE 5 */
