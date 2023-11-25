@@ -59,7 +59,7 @@ h2 {
   justify-content: space-between;
 }
 
-.exercice5 li {
+.exercice5 > ul {
   flex-direction: row;
 }
 
