@@ -64,5 +64,26 @@ h2 {
 }
 
 /* EXERCICE 6 */
+/* .exercice6 > ul {
+  display: flex;
+
+} */
+
+.exercice6 ul {
+  display: flex;
+  flex-direction: column; /* Aligne les éléments en colonne */
+  align-items: center; /* Centre verticalement les éléments */
+  list-style: none; /* Supprime les puces de la liste */
+  padding: 0; /* Supprime le remplissage par défaut de la liste */
+}
 
 /* EXERCICE 7 */
+
+.exercice7 > ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.exercice7 .pill {
+  border-radius: 50%;
+}
